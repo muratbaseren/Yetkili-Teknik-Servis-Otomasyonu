@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Main>
+  <Row d2p1:rowID="" xmlns:d2p1="0">
+    <Columnname>ID</Columnname>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="1">
+    <Columnname>Müşteri Adı</Columnname>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="2">
+    <Columnname>Müşteri Siparişi</Columnname>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="3">
+    <Columnname>Sipariş Durumu</Columnname>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="4">
+    <Columnname>Sipariş Tarihi</Columnname>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="5">
+    <Columnname>Sipariş Not</Columnname>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="6">
+    <Columnname>Sipariş Adedi</Columnname>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="7">
+    <Columnname>SabraMetal</Columnname>
+  </Row>
+</Main>
